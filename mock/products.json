@@ -1,0 +1,77 @@
+{
+  "cat1": {
+    "status": "success",
+    "data": {
+      "info": {
+        "name": "Категория 1"
+      },
+      "products": [
+        {
+          "name": "Продукт 1 из категории 1",
+          "price": 10200,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/standart/plastic/250/ventilator-kanalnij-kruglij-naveka-v-250.jpg"
+        },
+        {
+          "name": "Продукт 2 из категории 1",
+          "price": 9000.5,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/standart/plastic/100/ventilator-kanalnij-kruglij-naveka-v-100.jpg"
+        },
+        {
+          "name": "Продукт 3 из категории 1",
+          "price": 9500,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/standart/metal/250/vent_metal_round_250(1).jpg"
+        }
+      ]
+    }
+  },
+  "cat2": {
+    "status": "success",
+    "data": {
+      "info": {
+        "name": "Категория 2"
+      },
+      "products": [
+        {
+          "name": "Продукт 1 из категории 2",
+          "price": 12345,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/standart/metal/100/vent_metal_round_100(1).jpg"
+        },
+        {
+          "name": "Продукт 2 из категории 2",
+          "price": 3847,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/osevoi/shum/100/krugl_shum_plastic-vent-100_1.jpg"
+        }
+      ]
+    }
+  },
+  "cat3": {
+    "status": "success",
+    "data": {
+      "info": {
+        "name": "Категория 3"
+      },
+      "products": [
+        {
+          "name": "Продукт 1 из категории 3",
+          "price": 5000,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/osevoi/shum/200/krugl_shum_plastic-vent-200_1.jpg"
+        },
+        {
+          "name": "Продукт 2 из категории 3",
+          "price": 6000,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/shum/100/shum_100_.jpg"
+        },
+        {
+          "name": "Продукт 3 из категории 3",
+          "price": 7000,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/shum/315/compact_315.jpg"
+        },
+        {
+          "name": "Продукт 4 из категории 3",
+          "price": 8000.5,
+          "image": "https://static.progress-nw.ru/images/01_ventilyatory/kruglye/shum/200/ventilator-naveka-shumoizolirovannij-200mm.jpg"
+        }
+      ]
+    }
+  }
+}
